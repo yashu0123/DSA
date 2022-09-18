@@ -4,6 +4,6 @@ int main()
 {
     int a,b;
     cin>>a>>b;
-    cout<<"Sum of "<<a<<" "<<b<<" = "<<a+b;
+    cout<<"Sum of "<<a<<"+"<<b<<" = "<<a+b;
     return 0;
 }
